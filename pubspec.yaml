@@ -41,7 +41,10 @@ dependencies:
   permission_handler: ^10.2.0
   path_provider: ^2.0.11
   firebase_storage: ^11.0.10
-  flutter_audio_recorder3: ^0.0.5
+  firebase_auth: ^4.2.5
+  cloud_firestore: ^4.3.1
+  device_info_plus: ^3.2.3
+  firebase_core: ^2.4.1
 
 dev_dependencies:
   flutter_test:

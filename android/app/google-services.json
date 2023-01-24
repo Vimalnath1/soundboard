@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434908589878",
+    "project_id": "soundboard-16806",
+    "storage_bucket": "soundboard-16806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434908589878:android:48828f6e7ee1aa54894d97",
+        "android_client_info": {
+          "package_name": "com.vimalnathsh76.soundboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434908589878-okct0lt9rqpd3vf0kq7qjboopnf5v03p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk1kfXzaKi1sqFjso90QZmmegKkbWhoXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434908589878-okct0lt9rqpd3vf0kq7qjboopnf5v03p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
